@@ -1,9 +1,11 @@
 # 🌞 ConsciousDay Agent
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://consciousday-agent.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://conciousday-agent.streamlit.app/)
 
 A journaling-based AI assistant that provides emotional insights and daily strategies based on your morning reflections.
+
 # Project Demo
+https://github.com/user-attachments/assets/841f5fba-1c38-4201-b1b7-e4805ee41feb
 
 # Screenshots
 ![2.png](2.png)
