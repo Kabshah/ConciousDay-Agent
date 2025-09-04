@@ -35,24 +35,6 @@ with tab1:
             else:
                 st.error("Please fill in all required fields")
 
-# with tab2:
-#     st.subheader("View Past Entries")
-#     dates = get_all_dates()
-#     if dates:
-#         selected_date = st.selectbox("Select a date", dates)
-#         entry = get_entry_by_date(selected_date)
-#         if entry:
-#             st.write(f"### Entry for {selected_date}")
-#             st.write(f"**Journal:** {entry[2]}")
-#             st.write(f"**Intention:** {entry[3]}")
-#             st.write(f"**Dream:** {entry[4]}")
-#             st.write(f"**Priorities:** {entry[5]}")
-#             st.write("---")
-#             st.write("**Reflection & Strategy:**")
-#             st.markdown(entry[6])
-#     else:
-#         st.info("No past entries found.")
-
 with tab2:
     st.subheader("View Past Entries")
     dates = get_all_dates()
